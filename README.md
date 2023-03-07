@@ -25,6 +25,8 @@ Stock Market Prediction And Forecasting Using Stacked LSTM
 
 Dataset Link : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
+Linkedin post link:https://www.linkedin.com/posts/harini-mutyala_connections-task2-datascience-activity-7038702314639040512-CK3H?utm_source=share&utm_medium=member_desktop
+
 ### TASK-3
 Music Recommendation
 
